@@ -1,0 +1,37 @@
+.carro{
+    position: 200px;
+    margin: auto;
+    width: 400px;
+    /* background-color: rgb(222, 10, 98); */
+    border-radius: 35px;
+}
+h1{
+    position: relative;
+    margin: auto;
+    width: 600px;
+    /* background-color: rgb(245, 12, 12); */
+    border-radius: 50px;
+}
+input[type=text]{
+    border-radius: 50px;
+    width: px;
+    height: 28px;
+    margin: auto;
+    background-color: rgb(146, 146, 239);
+}
+
+body{
+    background-image: url("./fondo6.jpg"),
+                  url("./fondo6.jpg");
+}
+
+input[type=submit]{
+    border-radius: 20px;
+    width: 150px;
+    height: 28px;
+    margin: auto;
+    background-color: rgb(79, 56, 168);
+}
+input[type=color]{
+    background-color: burlywood;
+}
